@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yash Sharma 👋
 
-<!--
-**Tech-Yash-eng/Tech-Yash-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- 🌱 Learning Python, SQL, and Machine Learning
+- 🧠 Practicing Data Structures and Algorithms (DSA) using Python
+- 🤖 Building Machine Learning projects
+- 📊 Interested in Data Science and data-driven problem solving
+- 🎯 Working towards becoming a Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Learning
+- **Programming:** Python
+- **Data Science:** NumPy, Pandas
+- **Machine Learning:** Scikit-learn
+- **Database:** SQL
+- **Problem Solving:** Data Structures and Algorithms (DSA)
+- **Tools:** Git and GitHub
+
+## 🚀 Featured Project
+### Diabetes Progression Prediction
+My first Machine Learning project, focused on predicting diabetes disease progression using Python and Scikit-learn.
+
+## 📚 Currently Learning
+- Python programming
+- DSA and problem-solving
+- SQL
+- Statistics for Machine Learning
+- Machine Learning algorithms
+
+## 🎯 My Goal
+To strengthen my technical skills, build practical projects, and grow as a Data Scientist.
+
+---
+*Learning every day. Solving problems. Building step by step.* 
